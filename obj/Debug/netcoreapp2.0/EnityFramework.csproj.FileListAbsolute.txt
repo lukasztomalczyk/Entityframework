@@ -1,0 +1,11 @@
+E:\Projekty\EnityFramework\EnityFramework\bin\Debug\netcoreapp2.0\EnityFramework.deps.json
+E:\Projekty\EnityFramework\EnityFramework\bin\Debug\netcoreapp2.0\EnityFramework.runtimeconfig.json
+E:\Projekty\EnityFramework\EnityFramework\bin\Debug\netcoreapp2.0\EnityFramework.runtimeconfig.dev.json
+E:\Projekty\EnityFramework\EnityFramework\bin\Debug\netcoreapp2.0\EnityFramework.dll
+E:\Projekty\EnityFramework\EnityFramework\obj\Debug\netcoreapp2.0\EnityFramework.csprojResolveAssemblyReference.cache
+E:\Projekty\EnityFramework\EnityFramework\obj\Debug\netcoreapp2.0\EnityFramework.csproj.CoreCompileInputs.cache
+E:\Projekty\EnityFramework\EnityFramework\obj\Debug\netcoreapp2.0\EnityFramework.AssemblyInfoInputs.cache
+E:\Projekty\EnityFramework\EnityFramework\obj\Debug\netcoreapp2.0\EnityFramework.AssemblyInfo.cs
+E:\Projekty\EnityFramework\EnityFramework\bin\Debug\netcoreapp2.0\EnityFramework.pdb
+E:\Projekty\EnityFramework\EnityFramework\obj\Debug\netcoreapp2.0\EnityFramework.dll
+E:\Projekty\EnityFramework\EnityFramework\obj\Debug\netcoreapp2.0\EnityFramework.pdb
